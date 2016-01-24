@@ -1,6 +1,11 @@
-font-family: 'Open Sans', sans-serif;
-
-.relaxrheader {
-	width:400px;
-	background-image:images/header_bg.jpg;
+body {
+	margin: 0 auto;
+  	max-width: 600px;
 }
+
+div {
+
+}
+	.header {
+	background-image: url ("images/header_bg.jpg;");
+	}
